@@ -1,0 +1,9 @@
+flask
+gunicorn
+google-cloud-bigquery
+google-adk            # Assuming access to Google's Agent Dev Kit
+google-auth
+python-dotenv
+httpx
+locust
+litellm
